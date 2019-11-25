@@ -13,6 +13,8 @@
 + [Python](https://docs.python.org/3/) - interpreted, high-level, general-purpose programming language, first released in 1991, having a design philosophy that emphasizes code readability with notable use of significant whitespace
 + [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations
 + [Git](https://git-scm.com/docs) - distributed version-control system for tracking changes in source code during software development, designed for coordinating work among programmers, but also used to track changes in any set of files. Goals include speed, data integrity, and support for distributed, non-linear workflows
++ [Scala](https://docs.scala-lang.org/) - general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java
++ [D3](https://github.com/d3/d3/wiki) - JS library for producing dynamic, interactive data visualizations in web browsers, making use of widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework
 
 ---
 
