@@ -10,6 +10,9 @@
 + [ECMAScript 2016](http://www.ecma-international.org/ecma-262/7.0/index.html#) - scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262, created to standardize JavaScript to help foster multiple independent implementations
 + [GraphQL](https://graphql.org/learn/) - open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data
 + [VS Code](https://code.visualstudio.com/docs) - source-code editor developed by Microsoft including support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring
++ [Python](https://docs.python.org/3/) - interpreted, high-level, general-purpose programming language, first released in 1991, having a design philosophy that emphasizes code readability with notable use of significant whitespace
++ [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations
++ [Git](https://git-scm.com/docs) - distributed version-control system for tracking changes in source code during software development, designed for coordinating work among programmers, but also used to track changes in any set of files. Goals include speed, data integrity, and support for distributed, non-linear workflows
 
 ---
 
