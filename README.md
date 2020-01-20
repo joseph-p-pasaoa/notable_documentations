@@ -2,9 +2,10 @@
 
 *For when i have nothing to read ;D*
 
++ [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
++ [React Router](https://reacttraining.com/react-router/core/guides/quick-start) - React Router is an API for React applications. React Router, and dynamic, client-side routing, allows us to build a single-page web application with navigation without the page refreshing as the user navigates.
 + [Express.js](https://expressjs.com/en/starter/hello-world.html) - open-source web application framework for Node.js designed for building web applications and APIs
 + [Node.js](https://nodejs.org/api/) - open-source, cross-platform, JS runtime environment
-+ [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
 + [PostgreSQL](https://www.postgresql.org/docs/current/index.html) - open-source relational database management system (RDBMS) emphasizing extensibility and technical standards compliance, and designed to handle a range of workloads
 + [CSS Snapshot 2018](https://www.w3.org/TR/CSS/#css) - style sheet language used for describing the presentation of a document written in a markup language like HTML
 + [ECMAScript 2016](http://www.ecma-international.org/ecma-262/7.0/index.html#) - scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262, created to standardize JavaScript to help foster multiple independent implementations
