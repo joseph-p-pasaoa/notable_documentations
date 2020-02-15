@@ -14,6 +14,8 @@
 + [Version Control](#version-control)
 + [IDEs](#ides)
 
+---
+
 ## React
 
 + [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
