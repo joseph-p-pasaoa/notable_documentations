@@ -6,7 +6,7 @@
 
 + [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
 + [React/Redux](https://redux.js.org/api/api-reference) - A Predictable State Container for JS Apps
-+ [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - A collection of navigational components that compose declaratively with a React application.
++ [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - An API collection of navigational components enabling dynamic, client-side routing and compose declaratively within a React application.
 + [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) - Hooks let you use state and other React features without writing a class.
 
 ## Angular
