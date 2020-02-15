@@ -2,6 +2,18 @@
 
 *For when i have nothing to read ;D*
 
+### Table of Contents
++ [React](#react)
++ [Angular](#angular)
++ [Express](#express)
++ [SQL](#sql)
++ [Javascript](#javascript)
++ [Python](#python)
++ [CSS](#css)
++ [Scala](#scala)
++ [Version Control](#version-control)
++ [IDEs](#ides)
+
 ## React
 
 + [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
@@ -42,4 +54,8 @@
 
 ---
 
-+ [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+### [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+---
+
+[Return to TOC](#notable-documentations)
