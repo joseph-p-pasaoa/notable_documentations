@@ -21,8 +21,9 @@
 
 + [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
 + [React/Redux](https://redux.js.org/api/api-reference) - A Predictable State Container for JS Apps
-+ [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - An API collection of navigational components enabling dynamic, client-side routing and compose declaratively within a React application.
-+ [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) - Hooks let you use state and other React features without writing a class.
++ [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - An API collection of navigational components enabling dynamic, client-side routing and compose declaratively within a React application
++ [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) - Hooks let you use state and other React features without writing a class
++ [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/) - React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery
 
 ## Angular
 + [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations
