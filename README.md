@@ -21,6 +21,7 @@
 ## React
 
 + [React](https://reactjs.org/docs/hello-world.html) - JS library for building user interfaces
++ [Create-React-App](https://create-react-app.dev/docs/getting-started) - Set up a modern web app by running one command. Under the hood, we use webpack, Babel, ESLint, and other amazing projects to power your app
 + [React/Redux](https://redux.js.org/api/api-reference) - A Predictable State Container for JS Apps
 + [React Router](https://reacttraining.com/react-router/web/guides/quick-start) - An API collection of navigational components enabling dynamic, client-side routing and compose declaratively within a React application
 + [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) - Hooks let you use state and other React features without writing a class
