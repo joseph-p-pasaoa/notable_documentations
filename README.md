@@ -7,6 +7,7 @@
 + [Angular](#angular)
 + [Express](#express)
 + [SQL](#sql)
++ [Electron](#electron)
 + [Javascript](#javascript)
 + [Python](#python)
 + [CSS](#css)
@@ -33,6 +34,9 @@
 ## SQL
 + [PostgreSQL](https://www.postgresql.org/docs/current/index.html) - open-source relational database management system (RDBMS) emphasizing extensibility and technical standards compliance, and designed to handle a range of workloads
 + [GraphQL](https://graphql.org/learn/) - open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data
+
+## Electron
++ [Electron](https://www.electronjs.org/docs) - A framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
 
 ## Javascript
 + [Node.js](https://nodejs.org/api/) - open-source, cross-platform, JS runtime environment
