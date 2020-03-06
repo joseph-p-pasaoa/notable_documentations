@@ -44,6 +44,7 @@
 
 ## CSS
 + [CSS Snapshot 2018](https://www.w3.org/TR/CSS/#css) - style sheet language used for describing the presentation of a document written in a markup language like HTML
++ [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - An open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery
 
 ## Scala
 + [Scala](https://docs.scala-lang.org/) - general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java
