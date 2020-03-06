@@ -11,6 +11,7 @@
 + [Javascript](#javascript)
 + [Python](#python)
 + [CSS](#css)
++ [In-Memory Data Storage Systems](#in-memory-data-storage-systems)
 + [Scala](#scala)
 + [Version Control](#version-control)
 + [IDEs](#ides)
@@ -52,6 +53,10 @@
 ## CSS
 + [CSS Snapshot 2018](https://www.w3.org/TR/CSS/#css) - style sheet language used for describing the presentation of a document written in a markup language like HTML
 + [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - An open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery
+
+## In-Memory Data Storage Systems
++ [Redis](https://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster
++ [Memcached](https://github.com/memcached/memcached/wiki) - A high-performance, distributed memory object caching system, generic in nature, but originally intended for use in speeding up dynamic web applications by alleviating database load. You can think of it as a short-term memory for your applications.
 
 ## Scala
 + [Scala](https://docs.scala-lang.org/) - general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java
