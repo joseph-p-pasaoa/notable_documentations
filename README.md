@@ -9,6 +9,7 @@
 + [SQL](#sql)
 + [Electron](#electron)
 + [Javascript](#javascript)
++ [Front End Package Managers](#front-end-package-managers)
 + [Python](#python)
 + [CSS](#css)
 + [In-Memory Data Storage Systems](#in-memory-data-storage-systems)
@@ -46,6 +47,11 @@
 + [Node.js](https://nodejs.org/api/) - open-source, cross-platform, JS runtime environment
 + [ECMAScript 2016](http://www.ecma-international.org/ecma-262/7.0/index.html#) - scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262, created to standardize JavaScript to help foster multiple independent implementations
 + [D3](https://github.com/d3/d3/wiki) - JS library for producing dynamic, interactive data visualizations in web browsers, making use of widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework
+
+## Front End Package Managers
++ [NPM](https://docs.npmjs.com/) - The world’s largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well. Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe
++ [Yarn](https://classic.yarnpkg.com/en/docs) - Yarn caches every package it downloads so it never needs to download it again. It also parallelizes operations to maximize resource utilization so install times are faster than ever
++ [NPM v Yarn | StackShare](https://stackshare.io/stackups/npm-vs-yarn) - Developers are usually caught in a dilemma when choosing between package managers to use in building and managing project dependencies. Two popular package managers in the ecosystem are NPM (Node package manager) and Yarn (package manager created by Facebook)
 
 ## Python
 + [Python](https://docs.python.org/3/) - interpreted, high-level, general-purpose programming language, first released in 1991, having a design philosophy that emphasizes code readability with notable use of significant whitespace
