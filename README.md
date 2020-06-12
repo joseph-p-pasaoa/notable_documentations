@@ -30,10 +30,6 @@
 + [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) - Hooks let you use state and other React features without writing a class
 + [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/) - React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery
 
-## Typescript
-
-+ [Documentation](https://www.typescriptlang.org/docs/home.html) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-
 ## Angular
 + [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations
 
@@ -49,6 +45,7 @@
 + [Electron](https://www.electronjs.org/docs) - A framework for creating native applications with web technologies like JavaScript, HTML, and CSS. It takes care of the hard parts so you can focus on the core of your application.
 
 ## Javascript
++ [Typescript](https://www.typescriptlang.org/docs/home.html) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 + [Node.js](https://nodejs.org/api/) - open-source, cross-platform, JS runtime environment
 + [ECMAScript 2016](http://www.ecma-international.org/ecma-262/7.0/index.html#) - scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262, created to standardize JavaScript to help foster multiple independent implementations
 + [D3](https://github.com/d3/d3/wiki) - JS library for producing dynamic, interactive data visualizations in web browsers, making use of widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework
