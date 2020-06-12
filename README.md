@@ -30,6 +30,10 @@
 + [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html) - Hooks let you use state and other React features without writing a class
 + [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/) - React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery
 
+## Typescript
+
++ [Documentation](https://www.typescriptlang.org/docs/home.html) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+
 ## Angular
 + [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations
 
