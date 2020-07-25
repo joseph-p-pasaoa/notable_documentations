@@ -60,6 +60,7 @@
 ## Visualizations
 + [D3](https://github.com/d3/d3/wiki) - JS library for producing dynamic, interactive data visualizations in web browsers, making use of widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework
 + [Plotly](https://plot.ly/javascript/) - A high-level, declarative charting library built on top of d3.js and stack.gl. Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
++ [CanvasJS](https://canvasjs.com/docs/charts/basics-of-creating-html5-chart/) - a responsive HTML5 Charting Library with a simple API. It supports 30 different types of charts and renders across devices including iPhone, iPad, Android, Mac & PCs. This allows you to create rich dashboards that work across devices without compromising on maintainability or functionality of your web application.
 
 ## Front End Package Managers
 + [NPM](https://docs.npmjs.com/) - The world’s largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well. Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe
