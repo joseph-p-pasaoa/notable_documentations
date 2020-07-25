@@ -48,8 +48,6 @@
 + [Typescript](https://www.typescriptlang.org/docs/home.html) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 + [Node.js](https://nodejs.org/api/) - open-source, cross-platform, JS runtime environment
 + [ECMAScript 2016](http://www.ecma-international.org/ecma-262/7.0/index.html#) - scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262, created to standardize JavaScript to help foster multiple independent implementations
-+ [D3](https://github.com/d3/d3/wiki) - JS library for producing dynamic, interactive data visualizations in web browsers, making use of widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework
-+ [Plotly](https://plot.ly/javascript/) - A high-level, declarative charting library built on top of d3.js and stack.gl. Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
 
 ## Testing
 + [Jest](https://jestjs.io/docs/en/getting-started.html) - a JavaScript testing framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more.
@@ -58,6 +56,10 @@
   + Selenium, written in Python, is a another testing framework.
   ```
 + [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro) - a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices.
+
+## Visualizations
++ [D3](https://github.com/d3/d3/wiki) - JS library for producing dynamic, interactive data visualizations in web browsers, making use of widely implemented SVG, HTML5, and CSS standards. It is the successor to the earlier Protovis framework
++ [Plotly](https://plot.ly/javascript/) - A high-level, declarative charting library built on top of d3.js and stack.gl. Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
 
 ## Front End Package Managers
 + [NPM](https://docs.npmjs.com/) - The world’s largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well. Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe
