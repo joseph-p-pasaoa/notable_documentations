@@ -52,7 +52,12 @@
 + [Plotly](https://plot.ly/javascript/) - A high-level, declarative charting library built on top of d3.js and stack.gl. Plotly.js ships with over 40 chart types, including 3D charts, statistical graphs, and SVG maps.
 
 ## Testing
-+ [Jest](https://jestjs.io/docs/en/getting-started.html) - a JavaScript testing framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more
++ [Jest](https://jestjs.io/docs/en/getting-started.html) - a JavaScript testing framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more.
+  ```
+  + Mocha is an older JS testing library not too different than Jest that does asserts. Jest was influenced by Mocha but Jest is backed by Facebook.
+  + Selenium, written in Python, is a another testing framework.
+  ```
++ [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro) - a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices.
 
 ## Front End Package Managers
 + [NPM](https://docs.npmjs.com/) - The world’s largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well. Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe
