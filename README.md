@@ -79,6 +79,7 @@
 
 ## IDEs
 + [VS Code](https://code.visualstudio.com/docs) - source-code editor developed by Microsoft including support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring
++ [Emmet](https://docs.emmet.io/) - a web-developer’s tool that can greatly improve your HTML & CSS workflow by bring snippet implementation to a whole new level
 
 ## Standards
 + [W3C Web Standards](https://www.w3.org/standards/) - The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.
