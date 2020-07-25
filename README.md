@@ -70,6 +70,7 @@
 ## CSS
 + [CSS Snapshot 2018](https://www.w3.org/TR/CSS/#css) - style sheet language used for describing the presentation of a document written in a markup language like HTML
 + [SCSS / SASS](https://sass-lang.com/documentation) - stylesheet language that’s compiled to CSS. It allows you to use variables, nested rules, mixins, functions, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized and makes it easy to share design within and across projects.
++ [BEM](http://getbem.com/) - a labeling methodology that helps you to create reusable components and code sharing in front-end development
 + [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - An open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery
 
 ## In-Memory Data Storage Systems
